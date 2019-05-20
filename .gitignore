@@ -1,3 +1,4 @@
 .DS_Store
 ca.*
-k8s-ws-exec
+k8s-ws-execa
+.idea/*
